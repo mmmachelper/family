@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "name": "Outline Server 1",
+      "key": "xx://ASiakzG9cSdiajQrRQ.Dy1Tf25uedbgu4dRbKT0WBgCX7bFx9rSEqLwpe72NYnFU-f5ZvHCvigmWc_XVxYduLMA5tRsm_6jbd4iTAdxhNCvpPM9qtQEtlYSowc5A5QlOR5tLkQAEoP3T80M.SsBlccvEv0DWgka-mvhxADIYj0m-3cRjaxH2WJhMp-A"
+    },
+    {
+      "name": "Outline Server 2",
+      "key": "xx://AbUHBWU0gGCGJ_nj0A.gLzc0IbmbU-g9x2PT7eMxCHcNAPb4fzWL2fUb-PZWFQLr_Y-tot3lqixeUj-OPR_oa7mQMPBjaV64q9qNsGwuxnDwrdmGGakXRKJqdFpT8Zv4qoyrQaHPZru4RI.9GF_Px7UCxmuFJY8NiD9yMN7yCDsbiMzLL8ZS23QsNo"
+    },
+    {
+      "name": "Outline Server 3",
+      "key": "xx://AX-dNPuqnbd4FTajxw.FIH-cWucWbRu5VFe78N4_OhPj5bQ6rgmj_Ed4GcuwedVmZIxYO6eMGI8v-u6W1edjmeV_FUfKYFkZJOPDqcrikUX78UDqumZ2j56DlQLJk1QAezIeiwUTO7hAbIvrms.OQFmj8QE1CvxqBkc10E4XwO1SxwjaSvv5kPeNADIFEs"
+    },
+    {
+      "name": "Outline Server 4",
+      "key": "xx://AT3580ItK9FNfhwsuw.o3nXi2fbFMfI827Et2TCEGdgwDS4_ZJSlEiZQkVF_n5cW3Y5puyZQps7GtP06DwxxFsPS0Ots3cFlXYRqRisW7l9658-WFLJ74A3Feq-loCx3vojvoUykqa-1EQeG6zy.X3mbb41PpFmeTfGHBIyEZJ-l4WCSunfh_-epAcBzhHg"
+    }
+  ]
+}
